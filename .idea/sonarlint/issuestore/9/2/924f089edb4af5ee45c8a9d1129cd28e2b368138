@@ -1,3 +1,37 @@
 
-…
-java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8’ö–ä…2J$b9f98e0a-6490-4d1a-af3a-92bd616bc4aa
+ 	java:S135	"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ìı¸€†2J$9984962b-ee9d-4bfa-ad3e-9e30ec109bd5
+Ç
+java:S11921"Define a constant instead of duplicating this literal "--------------------------------------------------------------" 4 times.(¡– Éùÿÿÿÿ8¯£å†2J$adcdcbde-2f7c-402a-97b7-2badc7936bd7
+ˆ
+java:S1854"@Remove this useless assignment to local variable "exchangeRate".(­Ş‰Ïúÿÿÿÿ8Ñı¸€†2J$b9fb5b49-81ab-489f-b206-6ed24fd581b3
+m	java:S106
+"+Replace this use of System.out by a logger.(µ‹Ëü8Öı¸€†2J$eda57b4f-1830-403a-9b4c-18a49bc0e9b2
+r	java:S106"+Replace this use of System.out by a logger.(àìûÿÿÿÿ8Öı¸€†2J$9d1dec77-75eb-40e9-864b-8acbf8740075
+r	java:S106"+Replace this use of System.out by a logger.(‘©š˜üÿÿÿÿ8×ı¸€†2J$ea6befa0-8077-45c7-95e3-dadf8beb86fd
+m	java:S106"+Replace this use of System.out by a logger.(Á¼İó8Øı¸€†2J$74c37b18-b641-468a-9da2-f2ee36f7cd9f
+l	java:S106"+Replace this use of System.out by a logger.(§Áó8Øı¸€†2J$d06005b7-d349-44fd-8287-c4d83c8bae12
+r	java:S106"+Replace this use of System.out by a logger.(£õ²óşÿÿÿÿ8Úı¸€†2J$e44184c7-d47f-4f68-afc0-b53a2ef03f82
+r	java:S106"+Replace this use of System.out by a logger.(¡®Ûøÿÿÿÿ8Ûı¸€†2J$e4905f00-0239-4f38-a78e-8a624bede56e
+m	java:S106"+Replace this use of System.out by a logger.(„Ì·Ş8Ûı¸€†2J$2afe17a0-7f4c-4b08-8172-aa832291bd7b
+r	java:S106"+Replace this use of System.out by a logger.(± ”Şıÿÿÿÿ8Üı¸€†2J$a54a622c-5286-40ee-bac8-653f99f74790
+m	java:S106"+Replace this use of System.out by a logger.(ùªõß8İı¸€†2J$eb51d0a1-7bb0-487b-b896-16eec9f6072d
+r	java:S106*"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8Şı¸€†2J$9caa921f-e2c7-4ac0-bdca-570d8658bddb
+l	java:S106/"+Replace this use of System.out by a logger.(ÍÈÆg8ßı¸€†2J$b4800523-ff6e-4d79-a1db-f42c555fbe73
+m	java:S1060"+Replace this use of System.out by a logger.(€­üŞ8áı¸€†2J$92001ae1-671b-482e-8ad3-d586d33ba5be
+r	java:S1061"+Replace this use of System.out by a logger.(¡– Éùÿÿÿÿ8âı¸€†2J$531e9e87-110f-400b-8806-041adbd54528
+m	java:S1064"+Replace this use of System.out by a logger.(Æÿøª8âı¸€†2J$79ae9bf0-2a51-44aa-bb1c-55cf70fba34b
+r	java:S1065"+Replace this use of System.out by a logger.(¡– Éùÿÿÿÿ8ãı¸€†2J$64572443-5797-4e18-b140-62236f48134b
+r	java:S1069"+Replace this use of System.out by a logger.(±šôóùÿÿÿÿ8ãı¸€†2J$10ce6a70-8389-46dc-bd7e-b7566b8232b1
+r	java:S106:"+Replace this use of System.out by a logger.(¡®Ûøÿÿÿÿ8äı¸€†2J$0caffa90-3e16-4852-9b1a-11e93826c8ef
+m	java:S106;"+Replace this use of System.out by a logger.(„Ì·Ş8æı¸€†2J$91dbc1d4-2d06-443b-9467-906ba383adc4
+r	java:S106<"+Replace this use of System.out by a logger.(± ”Şıÿÿÿÿ8æı¸€†2J$3c0b08b5-01c0-492c-af86-33157102b1f7
+m	java:S106="+Replace this use of System.out by a logger.(ùªõß8èı¸€†2J$defc76a3-e991-41b3-932b-aeae010cbc78
+r	java:S106O"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8éı¸€†2J$af0f4f78-fac4-4fe9-9be2-75050302318c
+r	java:S106T"+Replace this use of System.out by a logger.(ÆÆ¿ºıÿÿÿÿ8ØôÅ†2J$508f9d63-12fa-4b37-8a10-a12acf158d39
+m	java:S106U"+Replace this use of System.out by a logger.(€­üŞ8ÃŠÊ†2J$951a1ab4-9944-4de3-943c-e33d810111ce
+r	java:S106V"+Replace this use of System.out by a logger.(¡– Éùÿÿÿÿ8ØĞá†2J$782d2e9a-eee6-410e-ab30-60f9b865b565
+m	java:S106Y"+Replace this use of System.out by a logger.(ë¦ğ8±˜ã†2J$e4ee554b-0f9d-4f10-ad7b-d5bfc36dd5eb
+r	java:S106Z"+Replace this use of System.out by a logger.(ê¶œ’úÿÿÿÿ8öä†2J$0b805082-896e-4f39-9370-05bd2324c843
+r	java:S106["+Replace this use of System.out by a logger.(¡– Éùÿÿÿÿ8öîä†2J$3c9443c4-285b-4268-80df-a3bf82fa5ad0
+r	java:S106_"+Replace this use of System.out by a logger.(¬õÇßüÿÿÿÿ8¿£å†2J$bc1ac6ee-4210-4f9d-94b6-436d34d5c6f3
+m	java:S106c"+Replace this use of System.out by a logger.(Š×…Ş8õÁå†2J$f3affcd2-e4a4-4f0d-a494-40306ca5f0e5

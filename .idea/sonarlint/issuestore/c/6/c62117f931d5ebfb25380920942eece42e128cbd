@@ -1,12 +1,14 @@
 
-W
-java:S1118":Add a private constructor to hide the implicit public one.(éì¥ô8ú˜Èå…2
-[
-java:S1854	"9Remove this useless assignment to local variable "value".(Óö—üÿÿÿÿ8û˜Èå…2
-Z
-java:S1854"8Remove this useless assignment to local variable "gson".(ñ™Àúÿÿÿÿ8ü˜Èå…2
-K
-java:S1481")Remove this unused "gson" local variable.(ñ™Àúÿÿÿÿ8ƒ™Èå…2
-L
-java:S1481	"*Remove this unused "value" local variable.(Óö—üÿÿÿÿ8„™Èå…2
-J	java:S108")Either remove or fill this block of code.(Ò´ã™ùÿÿÿÿ8…™Èå…2
+p
+java:S1121".Extract the assignment out of this expression.(»Ò‚W8ëô¡ü…2J$7fa63bd4-5da5-4582-b218-5e90149e9276
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øë¾Ç8ïô¡ü…2J$d10168b9-f2f8-4fb6-bf5a-211c422dcad1
+€
+java:S1854
+"8Remove this useless assignment to local variable "gson".(ñ™Àúÿÿÿÿ8óô¡ü…2J$3ba60175-147f-4fa9-bbf8-a0973b672a6c
+{
+java:S1854"9Remove this useless assignment to local variable "value".(»Ò‚W8ôô¡ü…2J$ad545d42-bbea-483a-a628-b8bf92cbd1b3
+q
+java:S1481
+")Remove this unused "gson" local variable.(ñ™Àúÿÿÿÿ8úô¡ü…2J$66ead3fe-23b6-465b-9854-1279986561c6
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ŠÕÍÌûÿÿÿÿ8öúış…2J$47c5230f-4b1b-4aab-927f-5b96e1b3113c

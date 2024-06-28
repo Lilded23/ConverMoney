@@ -1,10 +1,6 @@
 
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-B
-src/Entidades.java,2\f\2f2ba46fd934f6b53a94abd3db8410d01c1e55aa
-I
-src/Entidades/Moneda.java,d\a\da04f1390d866ee477a6b6a95c00bd9ab7969cc6
 H
 src/Entidades/Monda.java,2\2\2236c1dabc9f4f3bab0872fd8183723d4faa4608
 ?

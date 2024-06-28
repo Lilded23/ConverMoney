@@ -10,8 +10,9 @@ public class HttpClientService {
     }
     public String getExchangeRate(String baseCurrency){
         HttpClient client = HttpClient.newHttpClient();
+        //URI uri = URI.create()
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(" https://v6.exchangerate-api.com/v6/aa85940a46e837b123c8638e/latest/"+baseCurrency))
+                .uri(URI.create("https://v6.exchangerate-api.com/v6/aa85940a46e837b123c8638e/latest/"+baseCurrency))
                 .build();
         try {
             HttpResponse<String> response = client.send(request,HttpResponse.BodyHandlers.ofString());
