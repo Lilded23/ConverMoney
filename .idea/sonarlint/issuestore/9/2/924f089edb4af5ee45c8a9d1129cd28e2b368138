@@ -1,2 +1,3 @@
 
-k	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿJ$a93119ce-26c6-4c7d-84d2-ae402c9660ab
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8’ö–ä…2J$b9f98e0a-6490-4d1a-af3a-92bd616bc4aa
